@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "rosclaw-g1": {
+      "command": "python",
+      "args": ["src/g1_mcp_server.py"],
+      "transportType": "stdio",
+      "description": "Unitree G1 Humanoid Robot MCP Server"
+    }
+  }
+}
