@@ -1,5 +1,7 @@
 # rosclaw-g1-dds-mcp
 
+🌐 **English** | [中文](./README.zh.md)
+
 ROSClaw MCP Server for **Unitree G1 Humanoid Robot** via DDS protocol.
 
 Part of the [ROSClaw](https://github.com/ros-claw) Embodied Intelligence Operating System.
